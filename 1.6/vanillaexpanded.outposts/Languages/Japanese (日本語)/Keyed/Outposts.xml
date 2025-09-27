@@ -5,7 +5,7 @@
     <!-- EN: Time To Drill (Needs to happen before production starts) -->
   <Outposts.Settings.WorkToDrill>TODO</Outposts.Settings.WorkToDrill>
     <!-- EN: Cooldown -->
-  <Outposts.Settings.Cooldown>TODO</Outposts.Settings.Cooldown>
+  <Outposts.Settings.Cooldown>クールダウン</Outposts.Settings.Cooldown>
     <!-- EN: Shooting Importance -->
   <Outposts.Settings.Shooting>射撃スキルの影響度</Outposts.Settings.Shooting>
     <!-- EN: Animals Importance -->
@@ -69,7 +69,7 @@
     <!-- EN: Not enough nearby settlements, need {0} within {1} tiles -->
   <Outposts.NearbySettlements>TODO</Outposts.NearbySettlements>
     <!-- EN: Pawns Recruited: {0} -->
-  <Outposts.Letters.Recruit.Label>TODO</Outposts.Letters.Recruit.Label>
+  <Outposts.Letters.Recruit.Label>{0} を勧誘しました</Outposts.Letters.Recruit.Label>
     <!-- EN: The following pawns have been newly recruited in the town of {0}:\n{1} -->
   <Outposts.Letters.Recruit.Desc>TODO</Outposts.Letters.Recruit.Desc>
     <!-- EN: Change Factory -->
