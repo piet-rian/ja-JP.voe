@@ -8,7 +8,7 @@
     -->
   <v1.6>
     <!-- かならずある想定のMod(前述の例でいうとA)の翻訳文 -->
-    <li>1.6/depended.mod.package.id</li>
+    <li>1.6/vanillaexpanded.outposts</li>
 
     <!-- ない場合があるMod(前述の例でいうとB,C,D)の翻訳文 -->
     <li IfModActive="additional.mod.package.id">1.6/additional.mod.package.id</li>
