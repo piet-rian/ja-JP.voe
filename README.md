@@ -1,6 +1,12 @@
 # Vanilla Outposts Expanded(ja-JP)
 
-[Vanilla Outposts Expanded](https://steamcommunity.com/sharedfiles/filedetails/?id=2688941031) およびその拡張Modの自分用日本語化Mod
+## Copilotのレートリミットに引っかかった都合、ほとんどの箇所が翻訳できていません
+
+章題の通り
+
+## 概要
+
+[Vanilla Outposts Expanded](https://steamcommunity.com/sharedfiles/filedetails/?id=2688941031) の自分用日本語化Mod
 
 [Extract translation](https://steamcommunity.com/sharedfiles/filedetails/?id=3026452122)で出力したファイルを、GithubCopilot の Agent mode に翻訳させた上で、一部に強めの意訳を施した内容であることを承知の上で使用してください。
 
@@ -22,8 +28,6 @@
 > * DLC群
 > * Vanilla Expanded Framework
 > * Vanilla Outposts Expanded
-> * Vanilla Outposts Expanded: Additional Outposts
-> * additional mod name
 > * **本Mod**
 
 ## MID-SAVE

@@ -14,7 +14,6 @@
 
     <modVersion>1.0</modVersion>
 
-
     <!-- see. https://rimworldwiki.com/wiki/Modding_Tutorials/About.xml -->
 
     <modDependencies>
@@ -27,7 +26,6 @@
 
     <loadAfter>
         <li>vanillaexpanded.outposts</li>
-        <li>MrHydralisk.VOEAdditionalOutposts</li>
     </loadAfter>
 
 </ModMetaData>

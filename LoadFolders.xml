@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <loadFolders>
   <v1.6>
-    <li IfModActive="vanillaexpanded.outposts">1.6/vanillaexpanded.outposts</li>
-    <li IfModActive="MrHydralisk.VOEAdditionalOutposts">1.6/MrHydralisk.VOEAdditionalOutposts</li>
-    <li IfModActive="additional.mod.package.id">1.6/additional.mod.package.id</li>
+    <li>1.6/vanillaexpanded.outposts</li>
   </v1.6>
 
   <!-- バージョン上がったらここに追加していく -->
