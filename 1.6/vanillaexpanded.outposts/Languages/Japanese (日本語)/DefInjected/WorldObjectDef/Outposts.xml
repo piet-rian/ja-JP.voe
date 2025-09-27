@@ -21,6 +21,38 @@
   <!-- EN: Places a temporary, autonomously-led camp that serves as a resting point for caravans. While camping all pawns will regain food and rest, and allow time for injuries to heal. -->
   <Outpost_Encampment.description>TODO</Outpost_Encampment.description>
 
+  <!-- EN: farming outpost -->
+  <Outpost_Farming.label>農場</Outpost_Farming.label>
+  <!-- EN: Places a temporary, autonomously-led camp that specializes in sowing and harvesting easily-grown vegetation, cannot be placed on deserts. Once an ample amount is collected, a delivery will be made at the outskirts of a faction's primary colony. -->
+  <Outpost_Farming.description>TODO</Outpost_Farming.description>
+  <!-- EN: Choose which plant this outpost should plant -->
+  <Outpost_Farming.modExtensions.0.ChooseDesc>TODO</Outpost_Farming.modExtensions.0.ChooseDesc>
+  <!-- EN: Choose plant -->
+  <Outpost_Farming.modExtensions.0.ChooseLabel>TODO</Outpost_Farming.modExtensions.0.ChooseLabel>
+
+  <!-- EN: hunting outpost -->
+  <Outpost_Hunting.label>狩猟場</Outpost_Hunting.label>
+  <!-- EN: Places a temporary, autonomously-led camp that specializes in hunting and butchering wildlife. Once an ample amount is collected, a delivery will be made at the outskirts of a faction's primary colony. -->
+  <Outpost_Hunting.description>TODO</Outpost_Hunting.description>
+  <!-- EN: Choose what animal to hunt at this outpost -->
+  <Outpost_Hunting.modExtensions.0.ChooseDesc>TODO</Outpost_Hunting.modExtensions.0.ChooseDesc>
+  <!-- EN: Hunting {0} -->
+  <Outpost_Hunting.modExtensions.0.ChooseLabel>TODO</Outpost_Hunting.modExtensions.0.ChooseLabel>
+
+  <!-- EN: logging outpost -->
+  <Outpost_Logging.label>狩猟場</Outpost_Logging.label>
+  <!-- EN: Places a temporary, autonomously-led camp that specializes in collecting wood from trees in the areas, cannot be placed on deserts. Once an ample amount is collected, a delivery will be made at the outskirts of a faction's primary colony. -->
+  <Outpost_Logging.description>TODO</Outpost_Logging.description>
+
+  <!-- EN: mining outpost -->
+  <Outpost_Mining.label>採掘場</Outpost_Mining.label>
+  <!-- EN: Places a temporary, autonomously-led camp that specializes in collecting and processing stone or metal, can only be placed on hills or mountains. Once an ample amount is collected, a delivery will be made at the outskirts of a faction's primary colony. -->
+  <Outpost_Mining.description>TODO</Outpost_Mining.description>
+  <!-- EN: Click to change mining target. -->
+  <Outpost_Mining.modExtensions.0.ChooseDesc>TODO</Outpost_Mining.modExtensions.0.ChooseDesc>
+  <!-- EN: Mining {0} -->
+  <Outpost_Mining.modExtensions.0.ChooseLabel>TODO</Outpost_Mining.modExtensions.0.ChooseLabel>
+
   <!-- EN: production outpost -->
   <Outpost_Production.label>工場</Outpost_Production.label>
   <!-- EN: Places a temporary, autonomously-led camp that specializes in manufacturing and fabrication of mechanical and electronic components. Once an ample amount is produced, a delivery will be made at the outskirts of a faction's primary colony. -->
@@ -46,7 +78,7 @@
   <Outpost_Town.description>TODO</Outpost_Town.description>
 
   <!-- EN: trading outpost -->
-  <Outpost_Trading.label>交易所</Outpost_Trading.label>
+  <Outpost_Trading.label>交易拠点</Outpost_Trading.label>
   <!-- EN: Places a temporary, autonomously-led camp that specializes in selling and bartering with wanderers, caravans, and natives alike in exchange for silver. Once an ample amount is collected, a delivery will be made at the outskirts of a faction's primary colony. -->
   <Outpost_Trading.description>TODO</Outpost_Trading.description>
 
