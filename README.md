@@ -22,6 +22,7 @@
 > * DLC群
 > * Vanilla Expanded Framework
 > * Vanilla Outposts Expanded
+> * Vanilla Outposts Expanded: Additional Outposts
 > * additional mod name
 > * **本Mod**
 

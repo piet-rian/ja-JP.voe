@@ -11,6 +11,7 @@
     <li>1.6/vanillaexpanded.outposts</li>
 
     <!-- ない場合があるMod(前述の例でいうとB,C,D)の翻訳文 -->
+    <li IfModActive="MrHydralisk.VOEAdditionalOutposts">1.6/MrHydralisk.VOEAdditionalOutposts</li>
     <li IfModActive="additional.mod.package.id">1.6/additional.mod.package.id</li>
 
     <!--  否定ルールもあるので、何かの時のために一応コメントとして記法を残しておく -->
