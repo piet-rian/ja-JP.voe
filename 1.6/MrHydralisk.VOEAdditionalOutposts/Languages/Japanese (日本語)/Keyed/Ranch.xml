@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+    <!-- EN: Animal Body Size Multiplier -->
+  <VOEAdditionalOutposts.Settings.BodySize>TODO</VOEAdditionalOutposts.Settings.BodySize>
+    <!-- EN: Female Animal Percent -->
+  <VOEAdditionalOutposts.Settings.FemaleAnimalPercent>TODO</VOEAdditionalOutposts.Settings.FemaleAnimalPercent>
+    <!-- EN: Base Herd Size -->
+  <VOEAdditionalOutposts.Settings.BaseHerdSize>TODO</VOEAdditionalOutposts.Settings.BaseHerdSize>
+    <!-- EN: Meat Multiplier -->
+  <VOEAdditionalOutposts.Settings.MeatMultiplier>TODO</VOEAdditionalOutposts.Settings.MeatMultiplier>
+    <!-- EN: Leather Multiplier -->
+  <VOEAdditionalOutposts.Settings.LeatherMultiplier>TODO</VOEAdditionalOutposts.Settings.LeatherMultiplier>
+    <!-- EN: Egg Multiplier -->
+  <VOEAdditionalOutposts.Settings.EggMultiplier>TODO</VOEAdditionalOutposts.Settings.EggMultiplier>
+    <!-- EN: Milk Multiplier -->
+  <VOEAdditionalOutposts.Settings.MilkMultiplier>TODO</VOEAdditionalOutposts.Settings.MilkMultiplier>
+    <!-- EN: Wool Multiplier -->
+  <VOEAdditionalOutposts.Settings.WoolMultiplier>TODO</VOEAdditionalOutposts.Settings.WoolMultiplier>
+    <!-- EN: Custom Drop On Death Multiplier -->
+  <VOEAdditionalOutposts.Settings.DropOnDeathMultiplier>TODO</VOEAdditionalOutposts.Settings.DropOnDeathMultiplier>
+    <!-- EN: Custom Animal Product Multiplier -->
+  <VOEAdditionalOutposts.Settings.AnimalProductMultiplier>TODO</VOEAdditionalOutposts.Settings.AnimalProductMultiplier>
+    <!-- EN: {0}: {1} / {2}\nBirth in {3}\n -->
+  <VOEAdditionalOutposts.WillHandleAnimals>TODO</VOEAdditionalOutposts.WillHandleAnimals>
+    <!-- EN: Must have at least one {0} -->
+  <VOEAdditionalOutposts.ChooseDisabledReason>TODO</VOEAdditionalOutposts.ChooseDisabledReason>
+    <!-- EN: Must have pair of animals -->
+  <VOEAdditionalOutposts.MustBeMade.PairAnimal>TODO</VOEAdditionalOutposts.MustBeMade.PairAnimal>
+
+</LanguageData>

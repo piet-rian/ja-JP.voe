@@ -27,7 +27,7 @@
 
     <loadAfter>
         <li>vanillaexpanded.outposts</li>
-        <li>additional.mod.package.id</li>
+        <li>MrHydralisk.VOEAdditionalOutposts</li>
     </loadAfter>
 
 </ModMetaData>

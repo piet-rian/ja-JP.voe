@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <!-- EN: educational center -->
+  <Outpost_Educational_Center.label>学校</Outpost_Educational_Center.label>
+  <!-- EN: Places a temporary, autonomously-led camp that specializes in student education. Requires teachers of different specialties. -->
+  <Outpost_Educational_Center.description>TODO</Outpost_Educational_Center.description>
+
+</LanguageData>

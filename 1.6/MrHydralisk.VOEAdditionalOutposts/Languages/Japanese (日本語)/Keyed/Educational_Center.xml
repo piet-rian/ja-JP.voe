@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+    <!-- EN: Teacher Skill Multiplier -->
+  <VOEAdditionalOutposts.Settings.TeacherSkillMultiplier>TODO</VOEAdditionalOutposts.Settings.TeacherSkillMultiplier>
+    <!-- EN: Student Growth Multiplier -->
+  <VOEAdditionalOutposts.Settings.StudentGrowthMultiplier>TODO</VOEAdditionalOutposts.Settings.StudentGrowthMultiplier>
+    <!-- EN: Student Learning Multiplier -->
+  <VOEAdditionalOutposts.Settings.StudentLearningMultiplier>TODO</VOEAdditionalOutposts.Settings.StudentLearningMultiplier>
+    <!-- EN: Teachers -->
+  <VOEAdditionalOutposts.Teachers>教師達</VOEAdditionalOutposts.Teachers>
+    <!-- EN: Students -->
+  <VOEAdditionalOutposts.Students>生徒達</VOEAdditionalOutposts.Students>
+    <!-- EN: Efficiency -->
+  <VOEAdditionalOutposts.Efficiency>TODO</VOEAdditionalOutposts.Efficiency>
+    <!-- EN: Education -->
+  <VOEAdditionalOutposts.EducationTab>教育</VOEAdditionalOutposts.EducationTab>
+    <!-- EN: Students: {0}\nTeachers: {1}\nEfficiency: {2} ({3}/180)\nNext lesson in {4} -->
+  <VOEAdditionalOutposts.WillTeach>TODO</VOEAdditionalOutposts.WillTeach>
+
+</LanguageData>

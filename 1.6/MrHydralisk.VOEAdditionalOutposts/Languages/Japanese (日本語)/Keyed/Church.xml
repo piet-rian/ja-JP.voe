@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+    <!-- EN: {0} priest spread {1} -->
+  <VOEAdditionalOutposts.SpreadIdeology>TODO</VOEAdditionalOutposts.SpreadIdeology>
+	<!-- EN: Interaction Interval Reduction Per Priest -->
+  <VOEAdditionalOutposts.Settings.InteractionIntervalReductionPerPriest>TODO</VOEAdditionalOutposts.Settings.InteractionIntervalReductionPerPriest>
+    <!-- EN: Priests: {0}\nNew followers: {1}\nCurret ideology: {2}\nNext delivery in {3}:\n{4} -->
+  <VOEAdditionalOutposts.WillSpreadIdeology>TODO</VOEAdditionalOutposts.WillSpreadIdeology>
+    <!-- EN: Priests -->
+  <VOEAdditionalOutposts.Priests>TODO</VOEAdditionalOutposts.Priests>
+    <!-- EN: Followers -->
+  <VOEAdditionalOutposts.Followers>TODO</VOEAdditionalOutposts.Followers>
+    <!-- EN: Church -->
+  <VOEAdditionalOutposts.ChurchTab>TODO</VOEAdditionalOutposts.ChurchTab>
+	<!-- EN: Followers Delivery Destination -->
+  <VOEAdditionalOutposts.Commands.ConversionDelivery.Label>TODO</VOEAdditionalOutposts.Commands.ConversionDelivery.Label>
+    <!-- EN: Select which colony/outpost will recieve followers. Currently: {0} -->
+  <VOEAdditionalOutposts.Commands.ConversionDelivery.Desc>TODO</VOEAdditionalOutposts.Commands.ConversionDelivery.Desc>
+    <!-- EN: Church {0} Nothing To Report -->
+  <VOEAdditionalOutposts.Letters.ChurchFail.Label>TODO</VOEAdditionalOutposts.Letters.ChurchFail.Label>
+    <!-- EN: Church didn't recieved any donations. Consider increasing amount of priests -->
+  <VOEAdditionalOutposts.Letters.ChurchFail.Text>TODO</VOEAdditionalOutposts.Letters.ChurchFail.Text>
+</LanguageData>

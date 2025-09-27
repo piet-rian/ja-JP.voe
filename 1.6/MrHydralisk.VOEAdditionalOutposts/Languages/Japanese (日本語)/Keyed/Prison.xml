@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+	<!-- EN: Best Prisoner Skill Multiplier -->
+  <VOEAdditionalOutposts.Settings.PerPrisonerSkill>TODO</VOEAdditionalOutposts.Settings.PerPrisonerSkill>
+    <!-- EN: Interaction Interval Reduction Per Warden -->
+  <VOEAdditionalOutposts.Settings.InteractionIntervalReductionPerWarden>TODO</VOEAdditionalOutposts.Settings.InteractionIntervalReductionPerWarden>
+	<!-- EN: Max Interaction Interval -->
+  <VOEAdditionalOutposts.Settings.MaxInteractionInterval>TODO</VOEAdditionalOutposts.Settings.MaxInteractionInterval>
+	<!-- EN: Min Interaction Interval -->
+  <VOEAdditionalOutposts.Settings.MinInteractionInterval>TODO</VOEAdditionalOutposts.Settings.MinInteractionInterval>
+    <!-- EN: silver {0} -->
+  <VOEAdditionalOutposts.Silver>{0} シルバー</VOEAdditionalOutposts.Silver>
+    <!-- EN: hemogen packs {0} -->
+  <VOEAdditionalOutposts.Hemogen>{0} ヘモゲンパック</VOEAdditionalOutposts.Hemogen>
+    <!-- EN: Force prisoners to work -->
+  <VOEAdditionalOutposts.PrisonersWork>TODO</VOEAdditionalOutposts.PrisonersWork>
+    <!-- EN: Recruit prisoners -->
+  <VOEAdditionalOutposts.RecruitPrisoners>囚人を勧誘</VOEAdditionalOutposts.RecruitPrisoners>
+    <!-- EN: Enslave prisoners -->
+  <VOEAdditionalOutposts.EnslavePrisoners>囚人を奴隷化</VOEAdditionalOutposts.EnslavePrisoners>
+    <!-- EN: Extract hemogen packs from prisoners -->
+  <VOEAdditionalOutposts.HemogenPrisoners>TODO</VOEAdditionalOutposts.HemogenPrisoners>
+    <!-- EN: Prisoners -->
+  <VOEAdditionalOutposts.Prisoners>囚人達</VOEAdditionalOutposts.Prisoners>
+    <!-- EN: Wardens -->
+  <VOEAdditionalOutposts.Wardens>看守達</VOEAdditionalOutposts.Wardens>
+    <!-- EN: Interaction Interval -->
+  <VOEAdditionalOutposts.InteractionInterval>TODO</VOEAdditionalOutposts.InteractionInterval>
+    <!-- EN: Prison -->
+  <VOEAdditionalOutposts.PrisonTab>TODO</VOEAdditionalOutposts.PrisonTab>
+	<!-- EN: Recruit Delivery Destination -->
+  <VOEAdditionalOutposts.Commands.RecruitDelivery.Label>TODO</VOEAdditionalOutposts.Commands.RecruitDelivery.Label>
+    <!-- EN: Select which colony/outpost will recieve recruited prisoner. Currently: {0} -->
+  <VOEAdditionalOutposts.Commands.RecruitDelivery.Desc>TODO</VOEAdditionalOutposts.Commands.RecruitDelivery.Desc>
+	<!-- EN: Enslave Delivery Destination -->
+  <VOEAdditionalOutposts.Commands.EnslaveDelivery.Label>TODO</VOEAdditionalOutposts.Commands.EnslaveDelivery.Label>
+    <!-- EN: Select which colony/outpost will recieve enslaved prisoner. Currently: {0} -->
+  <VOEAdditionalOutposts.Commands.EnslaveDelivery.Desc>TODO</VOEAdditionalOutposts.Commands.EnslaveDelivery.Desc>
+    <!-- EN: Wardens: {0}\nColony prisoners: {1}\nCurret strategy: {2}\nNext delivery in {3}:\n{4} -->
+  <VOEAdditionalOutposts.WillWarden>TODO</VOEAdditionalOutposts.WillWarden>
+    <!-- EN: Prison {0} Nothing To Report -->
+  <VOEAdditionalOutposts.Letters.PrisonFail.Label>TODO</VOEAdditionalOutposts.Letters.PrisonFail.Label>
+    <!-- EN: Prsion didn't recieved any payments. Consider increasing amount of wardens or prisoners -->
+  <VOEAdditionalOutposts.Letters.PrisonFail.Text>TODO</VOEAdditionalOutposts.Letters.PrisonFail.Text>
+</LanguageData>
