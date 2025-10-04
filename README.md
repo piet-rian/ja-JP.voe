@@ -1,9 +1,5 @@
 # Vanilla Outposts Expanded(ja-JP)
 
-## Copilotのレートリミットに引っかかった都合、ほとんどの箇所が翻訳できていません
-
-章題の通り
-
 ## 概要
 
 [Vanilla Outposts Expanded](https://steamcommunity.com/sharedfiles/filedetails/?id=2688941031) の自分用日本語化Mod
