@@ -1,9 +1,9 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  
+
   <!-- EN: artillery strike -->
-  <VOE_TravellingArtilleryStrike.label>TODO</VOE_TravellingArtilleryStrike.label>
+  <VOE_TravellingArtilleryStrike.label>飛行中の砲撃</VOE_TravellingArtilleryStrike.label>
   <!-- EN: Artillery strike in flight. -->
-  <VOE_TravellingArtilleryStrike.description>TODO</VOE_TravellingArtilleryStrike.description>
-  
+  <VOE_TravellingArtilleryStrike.description>砲撃弾が飛来中です。</VOE_TravellingArtilleryStrike.description>
+
 </LanguageData>

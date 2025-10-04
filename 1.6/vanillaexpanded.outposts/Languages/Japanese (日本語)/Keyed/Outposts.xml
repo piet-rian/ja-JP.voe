@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
   <!-- EN: Research Rate -->
-  <Outposts.Settings.ResearchRate>TODO</Outposts.Settings.ResearchRate>
+  <Outposts.Settings.ResearchRate>研究速度</Outposts.Settings.ResearchRate>
   <!-- EN: Time To Drill (Needs to happen before production starts) -->
   <Outposts.Settings.WorkToDrill>掘削時間（生産開始前に必要）</Outposts.Settings.WorkToDrill>
   <!-- EN: Cooldown -->
@@ -29,7 +29,7 @@
   <!-- EN: Amount of Fuel -->
   <Outposts.Settings.NeedFuelAmount>燃料の量</Outposts.Settings.NeedFuelAmount>
   <!-- EN: Artillery Strike -->
-  <Outposts.Commands.Fire.Label>TODO</Outposts.Commands.Fire.Label>
+  <Outposts.Commands.Fire.Label>砲撃</Outposts.Commands.Fire.Label>
   <!-- EN: Begin targeting for an artillery strike -->
   <Outposts.Commands.Fire.Desc>ターゲットを指定して砲撃を開始します</Outposts.Commands.Fire.Desc>
   <!-- EN: Still on cooldown -->
@@ -45,9 +45,9 @@
   <!-- EN: Defenders at {0} have detected a raid from {1} heading towards {2}! \n\nThey are in position to ambush part of the raiding force, that if successful should cause the rest to scatter and return. They estimate the force they will fight is composed of: \n{3} -->
   <Outposts.Intercept.CanIntercept>{0}の防御者は、{1}から{2}に向かう襲撃を検出しました！\n\n彼らは襲撃部隊の一部を待ち伏せする位置にあり、成功すれば残りの部隊が散開して帰還するはずです。彼らは戦う力が次のもので構成されていると推定しています:\n{3}</Outposts.Intercept.CanIntercept>
   <!-- EN: Maneuver and intercept the raiders -->
-  <Outposts.Intercept.InterceptRaid>TODO</Outposts.Intercept.InterceptRaid>
+  <Outposts.Intercept.InterceptRaid>待ち伏せして襲撃部隊を迎撃する</Outposts.Intercept.InterceptRaid>
   <!-- EN: Stand down, and return to the outpost -->
-  <Outposts.Intercept.DontIntercept>TODO</Outposts.Intercept.DontIntercept>
+  <Outposts.Intercept.DontIntercept>待機して前哨に戻る</Outposts.Intercept.DontIntercept>
   <!-- EN: Send Reinforcements -->
   <Outposts.Commands.Deploy.Label>援軍を送る</Outposts.Commands.Deploy.Label>
   <!-- EN: Deploy the garrison of this outpost in drop pods to assist one of your combat engagements. -->
@@ -73,13 +73,13 @@
   <!-- EN: The following pawns have been newly recruited in the town of {0}:\n{1} -->
   <Outposts.Letters.Recruit.Desc>前哨基地{0}で次のポーンが新たに勧誘されました:\n{1}</Outposts.Letters.Recruit.Desc>
   <!-- EN: Change Factory -->
-  <Outposts.Commands.Factory.Label>TODO</Outposts.Commands.Factory.Label>
+  <Outposts.Commands.Factory.Label>工場の変更</Outposts.Commands.Factory.Label>
   <!-- EN: Change which factory building this outpost uses to produce items for you -->
-  <Outposts.Commands.Factory.Desc>TODO</Outposts.Commands.Factory.Desc>
+  <Outposts.Commands.Factory.Desc>前哨が使用する工場建物を変更して、生産品目を切り替えます</Outposts.Commands.Factory.Desc>
   <!-- EN: Change Result -->
-  <Outposts.Commands.Comb.Label>TODO</Outposts.Commands.Comb.Label>
+  <Outposts.Commands.Comb.Label>生産品の変更</Outposts.Commands.Comb.Label>
   <!-- EN: Change what the factory produces -->
-  <Outposts.Commands.Comb.Desc>TODO</Outposts.Commands.Comb.Desc>
+  <Outposts.Commands.Comb.Desc>工場が生産するアイテムを変更します</Outposts.Commands.Comb.Desc>
   <!-- EN: Must be made on the coast or a river -->
   <Outposts.MustBeOnCoastOrRiver>河川または沿岸に作成する必要があります</Outposts.MustBeOnCoastOrRiver>
   <!-- EN: All occupants must be armed and ready for combat. -->
@@ -87,11 +87,11 @@
   <!-- EN: May recruit some new pawns in {0} -->
   <Outposts.WillProduce.Pawns>{0}で新しいポーンを勧誘する場合があります</Outposts.WillProduce.Pawns>
   <!-- EN: Raid Ambush Won -->
-  <Outposts.Defensive.Won.Label>TODO</Outposts.Defensive.Won.Label>
+  <Outposts.Defensive.Won.Label>待ち伏せに勝利</Outposts.Defensive.Won.Label>
   <!-- EN: Your soldiers have successfully defeated the incoming raid before it could reach your settlement. {0} -->
   <Outposts.Defensive.Won.Desc>あなたの兵士たちは、襲撃があなたの集落に到達する前に見事に撃退しました。{0}</Outposts.Defensive.Won.Desc>
   <!-- EN: Raid Ambush Lost -->
-  <Outposts.Defensive.Lost.Label>TODO</Outposts.Defensive.Lost.Label>
+  <Outposts.Defensive.Lost.Label>待ち伏せに敗北</Outposts.Defensive.Lost.Label>
   <!-- EN: Your soldiers have been defeated whilst ambushing a raid targetting your settlement. Luckily, the raiders have been discouraged by your audacity and have decided to return home without continuing on to your settlement. Your soldiers' sacrifice is not in vain. -->
   <Outposts.Defensive.Lost.Desc>あなたの兵士たちは、あなたの集落を標的とする襲撃を待ち伏せしている間に敗北しました。幸いなことに、襲撃者たちはあなたの大胆さに気後れし、あなたの集落に向かうことなく帰宅することに決めました。あなたの兵士たちの犠牲は無駄ではありません。</Outposts.Defensive.Lost.Desc>
 </LanguageData>
