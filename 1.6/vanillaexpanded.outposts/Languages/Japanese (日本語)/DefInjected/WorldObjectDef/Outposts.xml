@@ -4,27 +4,27 @@
   <!-- EN: artillery outpost -->
   <Outpost_Artillery.label>砲撃陣地</Outpost_Artillery.label>
   <!-- EN: Places a temporary, autonomously-led camp that specializes in providing point defense to nearby settlements via artillery strikes. Each pawn will be tasked with the maintenance and usage of a mortar. After a barrage has been expended one day will be required to prepare a new one. -->
-  <Outpost_Artillery.description>一時的で自律的に運営されるキャンプを設置し、砲撃によって近くの集落にポイント防御を提供することを専門としています。各ポーンは迫撃砲の維持と使用を担当します。弾幕が消費された後、新しい弾幕を準備するには1日が必要です。</Outpost_Artillery.description>
+  <Outpost_Artillery.description>砲撃によって近くの集落にポイント防御を提供することを専門としています。各ポーンは迫撃砲の維持と使用を担当します。弾幕が消費された後、新しい弾幕を準備するには1日が必要です。</Outpost_Artillery.description>
 
   <!-- EN: defensive outpost -->
   <Outpost_Defensive.label>防衛陣地</Outpost_Defensive.label>
   <!-- EN: Places a temporary, autonomously-led camp that specializes in intercepting and ambushing incoming enemy raids on the main colony. Winning a small skirmish at an outpost can significantly diminish the size of an enemy raid on the main colony. Furthermore, defensive outposts can be tasked to send drop pods to the main colony for short-notice defense. -->
-  <Outpost_Defensive.description>一時的で自律的に運営されるキャンプを設置し、主要なコロニーへの敵の襲撃を傍受し、待ち伏せすることを専門としています。前哨基地での小競り合いに勝つことで、主要なコロニーへの敵の襲撃の規模を大幅に減少させることができます。さらに、防御前哨基地は、短時間で防御のために主要なコロニーにドロップポッドを送るように任務を与えることができます。</Outpost_Defensive.description>
+  <Outpost_Defensive.description>主要なコロニーへの敵の襲撃を傍受し、待ち伏せすることを専門としています。前哨基地での小競り合いに勝つことで、主要なコロニーへの敵の襲撃の規模を大幅に減少させることができます。さらに、防御前哨基地は、短時間で防御のために主要なコロニーにドロップポッドを送るように任務を与えることができます。</Outpost_Defensive.description>
 
   <!-- EN: drilling outpost -->
   <Outpost_Drilling.label>採油所</Outpost_Drilling.label>
   <!-- EN: Places a temporary, autonomously-led camp that specializes in locating and tapping underground chemfuel reservoirs. Once an ample amount is collected, a delivery will be made at the outskirts of a faction's primary colony. -->
-  <Outpost_Drilling.description>一時的で自律的に運営されるキャンプを設置し、地下のバイオ液化燃料を見つけて活用することを専門としています。十分な量が集まると、派閥の主要なコロニーの郊外で配達が行われます。</Outpost_Drilling.description>
+  <Outpost_Drilling.description>地下のバイオ液化燃料を見つけて活用することを専門としています。十分な量が集まると、派閥の主要なコロニーの郊外で配達が行われます。</Outpost_Drilling.description>
 
   <!-- EN: encampment -->
   <Outpost_Encampment.label>野営地</Outpost_Encampment.label>
   <!-- EN: Places a temporary, autonomously-led camp that serves as a resting point for caravans. While camping all pawns will regain food and rest, and allow time for injuries to heal. -->
-  <Outpost_Encampment.description>一時的で自律的に運営されるキャンプを設置し、キャラバンの休憩ポイントとして機能します。キャンプ中、すべてのポーンは食べ物と休息を取り戻し、怪我を治す時間を与えます。</Outpost_Encampment.description>
+  <Outpost_Encampment.description>キャラバンの休憩ポイントとして機能します。キャンプ中、すべてのポーンは食べ物と休息を取り戻し、怪我を治す時間を与えます。</Outpost_Encampment.description>
 
   <!-- EN: farming outpost -->
   <Outpost_Farming.label>農場</Outpost_Farming.label>
   <!-- EN: Places a temporary, autonomously-led camp that specializes in sowing and harvesting easily-grown vegetation, cannot be placed on deserts. Once an ample amount is collected, a delivery will be made at the outskirts of a faction's primary colony. -->
-  <Outpost_Farming.description>一時的で自律的に運営されるキャンプを設置し、育てやすい植物の種まきと収穫を専門としています。砂漠には配置できません。十分な量が集まると、派閥の主要なコロニーの郊外で配達が行われます。</Outpost_Farming.description>
+  <Outpost_Farming.description>育てやすい植物の種まきと収穫を専門としています。砂漠には配置できません。十分な量が集まると、派閥の主要なコロニーの郊外で配達が行われます。</Outpost_Farming.description>
   <!-- EN: Choose which plant this outpost should plant -->
   <Outpost_Farming.modExtensions.0.ChooseDesc>農場が植える植物を選択してください</Outpost_Farming.modExtensions.0.ChooseDesc>
   <!-- EN: Choose plant -->
@@ -33,7 +33,7 @@
   <!-- EN: hunting outpost -->
   <Outpost_Hunting.label>狩猟場</Outpost_Hunting.label>
   <!-- EN: Places a temporary, autonomously-led camp that specializes in hunting and butchering wildlife. Once an ample amount is collected, a delivery will be made at the outskirts of a faction's primary colony. -->
-  <Outpost_Hunting.description>一時的で自律的に運営されるキャンプを設置し、野生動物の狩猟と解体を専門としています。十分な量が集まると、派閥の主要なコロニーの郊外で配達が行われます。</Outpost_Hunting.description>
+  <Outpost_Hunting.description>野生動物の狩猟と解体を専門としています。十分な量が集まると、派閥の主要なコロニーの郊外で配達が行われます。</Outpost_Hunting.description>
   <!-- EN: Choose what animal to hunt at this outpost -->
   <Outpost_Hunting.modExtensions.0.ChooseDesc>この前哨基地で狩る動物を選択してください</Outpost_Hunting.modExtensions.0.ChooseDesc>
   <!-- EN: Hunting {0} -->
@@ -42,12 +42,12 @@
   <!-- EN: logging outpost -->
   <Outpost_Logging.label>伐採所</Outpost_Logging.label>
   <!-- EN: Places a temporary, autonomously-led camp that specializes in collecting wood from trees in the areas, cannot be placed on deserts. Once an ample amount is collected, a delivery will be made at the outskirts of a faction's primary colony. -->
-  <Outpost_Logging.description>一時的で自律的に運営されるキャンプを設置し、その地域の木から木材を収集することを専門としています。砂漠には配置できません。十分な量が集まると、派閥の主要なコロニーの郊外で配達が行われます。</Outpost_Logging.description>
+  <Outpost_Logging.description>その地域の木から木材を収集することを専門としています。砂漠には配置できません。十分な量が集まると、派閥の主要なコロニーの郊外で配達が行われます。</Outpost_Logging.description>
 
   <!-- EN: mining outpost -->
   <Outpost_Mining.label>採掘場</Outpost_Mining.label>
   <!-- EN: Places a temporary, autonomously-led camp that specializes in collecting and processing stone or metal, can only be placed on hills or mountains. Once an ample amount is collected, a delivery will be made at the outskirts of a faction's primary colony. -->
-  <Outpost_Mining.description>一時的で自律的に運営されるキャンプを設置し、石や金属の収集と加工を専門としています。丘や山にのみ配置できます。十分な量が集まると、派閥の主要なコロニーの郊外で配達が行われます。</Outpost_Mining.description>
+  <Outpost_Mining.description>石や金属の収集と加工を専門としています。丘や山にのみ配置できます。十分な量が集まると、派閥の主要なコロニーの郊外で配達が行われます。</Outpost_Mining.description>
   <!-- EN: Click to change mining target. -->
   <Outpost_Mining.modExtensions.0.ChooseDesc>採掘目標を変更するにはクリックしてください。</Outpost_Mining.modExtensions.0.ChooseDesc>
   <!-- EN: Mining {0} -->
@@ -56,7 +56,7 @@
   <!-- EN: production outpost -->
   <Outpost_Production.label>工場</Outpost_Production.label>
   <!-- EN: Places a temporary, autonomously-led camp that specializes in manufacturing and fabrication of mechanical and electronic components. Once an ample amount is produced, a delivery will be made at the outskirts of a faction's primary colony. -->
-  <Outpost_Production.description>一時的で自律的に運営されるキャンプを設置し、コンポーネント類の生産を専門としています。十分な量が生産されると、派閥の主要なコロニーの郊外で配達が行われます。</Outpost_Production.description>
+  <Outpost_Production.description>コンポーネント類の生産を専門としています。十分な量が生産されると、派閥の主要なコロニーの郊外で配達が行われます。</Outpost_Production.description>
   <!-- EN: Choose between components and advanced components -->
   <Outpost_Production.modExtensions.0.ChooseDesc>コンポーネントと高度なコンポーネントのどちらかを選択してください</Outpost_Production.modExtensions.0.ChooseDesc>
   <!-- EN: Choose output -->
@@ -65,21 +65,21 @@
   <!-- EN: scavenging outpost -->
   <Outpost_Scavenging.label>盗掘拠点</Outpost_Scavenging.label>
   <!-- EN: Places a temporary, autonomously-led camp that specializes in scouting for nearby unmarked settlements and the loot contained within them. Once something notable is collected, a delivery will be made at the outskirts of a faction's primary colony. -->
-  <Outpost_Scavenging.description>一時的で自律的に運営されるキャンプを設置し、近くの未標示の集落とその中に含まれる戦利品を偵察することを専門としています。注目に値するものが収集されると、派閥の主要なコロニーの郊外で配達が行われます。</Outpost_Scavenging.description>
+  <Outpost_Scavenging.description>近くの未標示の集落とその中に含まれる戦利品を偵察することを専門としています。注目に値するものが収集されると、派閥の主要なコロニーの郊外で配達が行われます。</Outpost_Scavenging.description>
 
   <!-- EN: science outpost -->
   <Outpost_Science.label>研究所</Outpost_Science.label>
   <!-- EN: Places a temporary, autonomously-led camp that specializes in research and analysis. Any information gained will be shared with the faction as a whole. -->
-  <Outpost_Science.description>一時的で自律的に運営されるキャンプを設置し、研究と分析を専門としています。得られた情報は派閥全体と共有されます。</Outpost_Science.description>
+  <Outpost_Science.description>研究と分析を専門としています。得られた情報は派閥全体と共有されます。</Outpost_Science.description>
 
   <!-- EN: town -->
   <Outpost_Town.label>住宅地</Outpost_Town.label>
   <!-- EN: Places a temporary, autonomously-led town that is designed to provide hospitality to travelers and traders alike. Should a visitor find their lodging amicable they will be invited to join the town as a resident permanently. A town can only be erected if 3 pre-existing settlements are located within 10 hexes. -->
-  <Outpost_Town.description>一時的で自律的に運営される町を設置し、旅行者や商人にホスピタリティを提供するように設計されています。訪問者がその宿泊施設を気に入った場合、彼らは永住者として町に招待されます。3つの既存の集落が10ヘクス以内にある場合にのみ、町を建設できます。</Outpost_Town.description>
+  <Outpost_Town.description>旅行者や商人にホスピタリティを提供するように設計されています。訪問者がその宿泊施設を気に入った場合、彼らは永住者として町に招待されます。3つの既存の集落が10ヘクス以内にある場合にのみ、町を建設できます。</Outpost_Town.description>
 
   <!-- EN: trading outpost -->
   <Outpost_Trading.label>交易拠点</Outpost_Trading.label>
   <!-- EN: Places a temporary, autonomously-led camp that specializes in selling and bartering with wanderers, caravans, and natives alike in exchange for silver. Once an ample amount is collected, a delivery will be made at the outskirts of a faction's primary colony. -->
-  <Outpost_Trading.description>一時的で自律的に運営されるキャンプを設置し、放浪者、キャラバン、先住民と銀を交換して販売および物々交換を専門としています。十分な量が集まると、派閥の主要なコロニーの郊外で配達が行われます。</Outpost_Trading.description>
+  <Outpost_Trading.description>放浪者、キャラバン、先住民と銀を交換して販売および物々交換を専門としています。十分な量が集まると、派閥の主要なコロニーの郊外で配達が行われます。</Outpost_Trading.description>
 
 </LanguageData>
